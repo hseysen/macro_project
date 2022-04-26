@@ -13,6 +13,8 @@ pip install -r requirements.txt
 
 Just run the `main.py` file. You will be greeted with the user-interface.
 
+![The GUI](https://i.imgur.com/F1oNhTr.png)
+
 The "Add / Edit Action" section allows the user to create an action and add it to the sequence of actions that the program will execute. Once the parameters are defined, the user can add the action or reset to default field values. In this section, the user can also save/load sequences, as well as configurable shortcut keys.
 
 The "List of Action(s) to Execute in Sequence" section allows the user to see which actions will be executed by the program. The user can start the execution, re-order the actions in the sequence by moving them up or down, or completely deleting the action from the sequence.
